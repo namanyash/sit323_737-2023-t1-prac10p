@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: my-node-app
-          image: namanyash/sit323-737-2023-t1-prac7p
+          image: namanyash/sit737_10:v1
           ports:
             - containerPort: 5000
